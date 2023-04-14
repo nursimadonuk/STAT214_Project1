@@ -1,0 +1,25 @@
+---
+title: "Class 18 Classwork"
+author: "Nursima Donuk"
+date: "11/16/2020"
+output: html_document
+subtitle: "All Possible Regression Selection"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r}
+
+```
+
